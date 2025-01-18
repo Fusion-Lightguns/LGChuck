@@ -1,5 +1,5 @@
-#ifndef WiiChuck_h
-#define WiiChuck_h
+#ifndef LGChuck_h
+#define LGChuck_h
 
 #include <Accessory.h>
 
