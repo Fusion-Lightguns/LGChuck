@@ -1,5 +1,8 @@
-# WiiChuck
-An Arduino library for talking to every extension controller made for the Wii including the Nunchuk and Classic Controller over I²C.
+# LGChuck
+## Info 
+- An Arduino library for talking to every extension controller made for the Wii including the Nunchuk and Classic Controller over I²C.
+- This is a ork of Wiichuck
+- This version of Wiichuck is made to use with Lightguns mainly.
 
 ## Supported Controllers:
 
